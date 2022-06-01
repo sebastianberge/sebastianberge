@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sebastian</h1>
 <h3 align="center">Computer Engineer @ Bergen, Norway</h3>
 
-- 🌱 I’m currently learning **Flutter**
-
 - 👨‍💻 I'm a Solution Consultant at [Tietoevry Banking](https://www.tietoevry.com/en/banking/)
+
+- 🌱 I’m currently learning **Flutter**
 
 <h4 align="left">Connect with me:</h4>
 <p align="left">
