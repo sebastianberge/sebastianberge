@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Sebastian</h1>
 <h3 align="center">Computer Engineer @ Bergen, Norway</h3>
 
-- 👨‍💻 I'm a Solution Consultant at [Tietoevry Banking](https://www.tietoevry.com/en/banking/)
-
-- 🌱 I’m currently learning **Flutter**
+Who am I?
+- 👨‍💻 Solution Consultant at [Tietoevry Banking](https://www.tietoevry.com/en/banking/)
+- 👨‍💻 Cloud Consultant at [Tietoevry Connect](https://www.tietoevry.com/en/connect/)
+- 🌱 Love DevOps, Cloud, Kupernetes, Linux, software engineering and much more!
 
 <h4 align="left">Connect with me:</h4>
 <p align="left">
