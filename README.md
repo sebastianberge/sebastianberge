@@ -2,8 +2,7 @@
 <h3 align="center">Computer Engineer @ Bergen, Norway</h3>
 
 Who am I?
-- 👨‍💻 Solution Consultant at [Tietoevry Banking](https://www.tietoevry.com/en/banking/)
-- 👨‍💻 Cloud Consultant at [Tietoevry Connect](https://www.tietoevry.com/en/connect/)
+- 👨‍💻 Cloud Engineer at [Tietoevry Connect](https://www.tietoevry.com/en/connect/)
 - 🌱 Love DevOps, Cloud, Kupernetes, Linux, software engineering and much more!
 
 <h4 align="left">Connect with me:</h4>
