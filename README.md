@@ -17,4 +17,4 @@ Who am I?
  </p>
 
 <h4 align="left">Certifications:</h4>
-<img src="https://www.credly.com/badges/91685163-d742-4d24-8940-fb454b797dbe/public_url" />
+<img src="https://www.credly.com/badges/91685163-d742-4d24-8940-fb454b797dbe" />
