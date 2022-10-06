@@ -17,4 +17,4 @@ Who am I?
  </p>
 
 <h4 align="left">Certifications:</h4>
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="91685163-d742-4d24-8940-fb454b797dbe" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+<img src="https://www.credly.com/badges/91685163-d742-4d24-8940-fb454b797dbe/public_url" />
