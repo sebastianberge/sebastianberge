@@ -17,6 +17,7 @@ Who am I?
  </p>
 
 <h4 align="left">Certifications:</h4>
+
 - AZ-900: Azure Fundamentals
 
 - AZ-104: Azure Administrator
