@@ -17,4 +17,6 @@ Who am I?
  </p>
 
 <h4 align="left">Certifications:</h4>
-<img src="https://www.credly.com/badges/91685163-d742-4d24-8940-fb454b797dbe" />
+- AZ-900: Azure Fundamentals
+- AZ-104: Azure Administrator
+- AZ-400: DevOps Engineer
