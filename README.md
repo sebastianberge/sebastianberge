@@ -2,7 +2,7 @@
 <h3 align="center">Computer Engineer @ Bergen, Norway</h3>
 
 Who am I?
-- 👨‍💻 Cloud & DevOps Engineer at [Tietoevry Connect](https://www.tietoevry.com/en/connect/)
+- 👨‍💻 Senior Cloud & DevOps Engineer at [Devoteam M Cloud Norway](https://no.devoteam.com/)
 - 🌱 Love DevOps, Cloud, Kubernetes, Linux, software engineering and much more!
 
 <h4 align="left">Connect with me:</h4>
