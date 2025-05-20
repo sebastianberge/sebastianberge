@@ -1,2 +1,2 @@
 <h1 align="center">Hi 👋, I'm Sebastian 🇳🇴</h1>
-<h3 align="center">Senior Cloud & DevOps Engineer @ Devoteam M Cloud</h3>
+<h3 align="center">Senior Cloud & DevOps Engineer</h3>
